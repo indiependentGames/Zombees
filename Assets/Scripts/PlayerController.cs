@@ -27,8 +27,8 @@ public class PlayerController : MonoBehaviour {
 
         }
         Vector3 motion = input;
-        input *= (Mathf.Abs(input.x) == 1 && Mathf.Abs(input.z) == 1) ? .7f:1;
-        input *= (Input.GetButton("Run")) ? runSpeed : walkSpeed;
+        motion *= (Mathf.Abs(input.x) == 1 && Mathf.Abs(input.z) == 1) ? .7f:1;
+        motion *= (Input.GetButton("Run")) ? runSpeed : walkSpeed;
         motion += Vector3.up * -8;
 
         controller.Move(motion * Time.deltaTime);
