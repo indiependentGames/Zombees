@@ -4,14 +4,14 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 11
-  productGUID: 7254dc00b8cb7a545b013e8952a50fb0
+  productGUID: 0a9922ce52de4b14ba5422d4a10366c6
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Zombees
+  productName: Zombees1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21176471, a: 1}
@@ -503,14 +503,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Zombees
+  metroPackageName: Zombees1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Zombees
+  metroApplicationDescription: Zombees1
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -585,8 +585,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
-  cloudProjectId: 060e9e49-5a6d-473f-aed7-ac6530d6ee76
-  projectName: Zombees (3)
+  cloudProjectId: ae55233e-d020-41ed-b6c7-4bb3bd2b5b81
+  projectName: Zombees1
   organizationId: steelapex
   cloudEnabled: 0
   enableNewInputSystem: 0
