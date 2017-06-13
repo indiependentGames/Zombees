@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33477396561897386}
   - component: {fileID: 136057644413095134}
   - component: {fileID: 23200696007206338}
-  - component: {fileID: 114984015926986116}
+  - component: {fileID: 114879606407313458}
   m_Layer: 0
   m_Name: Bullet
   m_TagString: Untagged
@@ -82,7 +82,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1183624979225176}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &114984015926986116
+--- !u!114 &114879606407313458
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -90,10 +90,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1183624979225176}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e4e5aeccc68bc844baf5b5df352a85ff, type: 3}
+  m_Script: {fileID: 11500000, guid: f811e7658f1321e4fb9ced6fa42e5b11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 0
 --- !u!136 &136057644413095134
 CapsuleCollider:
   m_ObjectHideFlags: 1
